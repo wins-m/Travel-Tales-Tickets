@@ -7,7 +7,7 @@ import os
 PATH = '/mnt/d/Codes_代码/mygitrep/Travel-Tales-Tickets/cinemas/'
 
 def main():
-    force_update = True
+    force_update = False
     src = PATH + 'cinemas.xlsx'
     tgt = PATH + 'content/'
     os.makedirs(tgt, exist_ok=True)
