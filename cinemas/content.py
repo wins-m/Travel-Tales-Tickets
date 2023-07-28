@@ -6,8 +6,8 @@ import pandas as pd
 import os
 
 force_update = False
-src = './cinemas/cinemas.xlsx'
-tgt = './cinemas/tickets/content/tickets/'
+src = './cinemas.xlsx'
+tgt = './tickets/content/tickets/'
 
 
 def trans_seat(s):
@@ -33,7 +33,7 @@ def main():
         content = ['---\n']
         content.append(f"""title: '{s['movie']}'\n""")
         content.append(f"""date: '{s['date'].strftime('%Y-%m-%d')}'\n""")
-        content.append(f"""price: '{s['price']:.2f}'\n""")
+        content.append(f"""price: '{s['price']:.1f}'\n""")
         content.append(f"""theaters: ['{s['theaters'].replace('（', '·').replace('）','')}']\n""")
         content.append(f"""seat: ['{trans_seat(s['seat'])}']\n""")
         if isinstance(s['remark'], str):

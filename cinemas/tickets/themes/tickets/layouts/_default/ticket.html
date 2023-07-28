@@ -28,12 +28,12 @@
       {{ if .Params.price }}
         <li>
           <span class="visually-hide">The ticket cost</span>
-          <small class="ticket__price">￥{{ .Params.price }}</small>
+          <small class="ticket__price">¥{{ .Params.price }}</small>
         </li>
       {{ end }}
 
       {{ if .Params.seat }}
-        <li class="ticket__seat">
+        <li class="ticket__content">
           <span class="visually-hide">Seated at</span>
           {{ range .Params.seat }}
             {{ . }}
