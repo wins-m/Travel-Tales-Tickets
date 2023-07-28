@@ -1,0 +1,54 @@
+.visually-hide {
+  position: absolute;
+  top: 0;
+  left: -9999px;
+  clip: rec(0, 0, 0, 0);
+  pointer-events: none;
+}
+
+.unstyled-list {
+  padding: 0;
+  margin: 0;
+
+  li {
+    list-style: none;
+  }
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.center {
+  text-align: center;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.barcode {
+  font-family: var(--cursive);
+}
+
+.gray-background {
+  background-color: var(--color-scheme-background);
+}
+
+.light-gray-background {
+  background-color: var(--color-scheme-darker-background);
+}
+
+.primary-background {
+  background-color: var(--primary);
+}
+
+.border-bottom {
+  border-bottom: 1px dashed var(--color-scheme-border);
+}
+
+.tickets {
+  padding: 0 10px;
+}

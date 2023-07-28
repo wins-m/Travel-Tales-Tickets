@@ -1,0 +1,37 @@
+.site-header {
+  padding: 20px 0;
+  background-color: var(--color-scheme-light-background);
+
+  ul {
+    display: flex;
+    justify-content: center;
+
+    li {
+      &:not(:last-of-type) {
+        margin-right: 20px;
+      }
+    }
+
+    a {
+      display: block;
+      padding: 20px;
+      text-decoration: none;
+
+      &[aria-current="page"] {
+        outline: 1px dashed var(--color-scheme-border);
+      }
+    }
+  }
+
+  &__skip-link {
+    position: fixed;
+    top: -4em;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: top .5s ease-in-out;
+
+    &:focus {
+      top: 0;
+    }
+  }
+}
