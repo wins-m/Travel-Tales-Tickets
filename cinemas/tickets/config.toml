@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "噗嗤！收藏集！"
 theme = "tickets"
-paginate = 18
+paginate = 24
 enableRobotsTXT = true
 
 [taxonomies]
