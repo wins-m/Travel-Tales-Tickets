@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>舟山时代金球影城 on 噗嗤！收藏集！</title>
-    <link>/theaters/%E8%88%9F%E5%B1%B1%E6%97%B6%E4%BB%A3%E9%87%91%E7%90%83%E5%BD%B1%E5%9F%8E/</link>
+    <link>//localhost:9898/theaters/%E8%88%9F%E5%B1%B1%E6%97%B6%E4%BB%A3%E9%87%91%E7%90%83%E5%BD%B1%E5%9F%8E/</link>
     <description>Recent content in 舟山时代金球影城 on 噗嗤！收藏集！</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="/theaters/%E8%88%9F%E5%B1%B1%E6%97%B6%E4%BB%A3%E9%87%91%E7%90%83%E5%BD%B1%E5%9F%8E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/theaters/%E8%88%9F%E5%B1%B1%E6%97%B6%E4%BB%A3%E9%87%91%E7%90%83%E5%BD%B1%E5%9F%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>蚁人2：黄蜂女现身</title>
-      <link>/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</link>
+      <link>//localhost:9898/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</guid>
+      <guid>//localhost:9898/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

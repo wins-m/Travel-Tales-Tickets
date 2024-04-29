@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>万象影城·杭州万象城IMAX激光店 on 噗嗤！收藏集！</title>
+    <link>//localhost:9898/theaters/%E4%B8%87%E8%B1%A1%E5%BD%B1%E5%9F%8E%E6%9D%AD%E5%B7%9E%E4%B8%87%E8%B1%A1%E5%9F%8Eimax%E6%BF%80%E5%85%89%E5%BA%97/</link>
+    <description>Recent content in 万象影城·杭州万象城IMAX激光店 on 噗嗤！收藏集！</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/theaters/%E4%B8%87%E8%B1%A1%E5%BD%B1%E5%9F%8E%E6%9D%AD%E5%B7%9E%E4%B8%87%E8%B1%A1%E5%9F%8Eimax%E6%BF%80%E5%85%89%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>沙丘2</title>
+      <link>//localhost:9898/tickets/%E6%B2%99%E4%B8%982/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%B2%99%E4%B8%982/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

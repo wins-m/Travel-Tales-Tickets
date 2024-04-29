@@ -23,8 +23,8 @@ script_directory=$(dirname "$(readlink -f "$script_name")")
 
 echo "脚本所在目录：$script_directory"
 
-# python "$script_directory/content.py" "$script_directory" --force
-python "$script_directory/content.py" "$script_directory"
+python "$script_directory/content.py" "$script_directory" --force
+# python "$script_directory/content.py" "$script_directory"
 
 echo "网页所在地址：http://localhost:9898/"
 hugo server -s "$script_directory/tickets" -p 9898 --quiet

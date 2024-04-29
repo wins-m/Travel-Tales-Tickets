@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>北京剧院 on 噗嗤！收藏集！</title>
-    <link>/theaters/%E5%8C%97%E4%BA%AC%E5%89%A7%E9%99%A2/</link>
+    <link>//localhost:9898/theaters/%E5%8C%97%E4%BA%AC%E5%89%A7%E9%99%A2/</link>
     <description>Recent content in 北京剧院 on 噗嗤！收藏集！</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/theaters/%E5%8C%97%E4%BA%AC%E5%89%A7%E9%99%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/theaters/%E5%8C%97%E4%BA%AC%E5%89%A7%E9%99%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>卡萨布兰卡</title>
-      <link>/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</link>
+      <link>//localhost:9898/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</guid>
+      <guid>//localhost:9898/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

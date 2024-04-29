@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>国贸国际影城·舒兰店 on 噗嗤！收藏集！</title>
-    <link>/theaters/%E5%9B%BD%E8%B4%B8%E5%9B%BD%E9%99%85%E5%BD%B1%E5%9F%8E%E8%88%92%E5%85%B0%E5%BA%97/</link>
+    <link>//localhost:9898/theaters/%E5%9B%BD%E8%B4%B8%E5%9B%BD%E9%99%85%E5%BD%B1%E5%9F%8E%E8%88%92%E5%85%B0%E5%BA%97/</link>
     <description>Recent content in 国贸国际影城·舒兰店 on 噗嗤！收藏集！</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/theaters/%E5%9B%BD%E8%B4%B8%E5%9B%BD%E9%99%85%E5%BD%B1%E5%9F%8E%E8%88%92%E5%85%B0%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/theaters/%E5%9B%BD%E8%B4%B8%E5%9B%BD%E9%99%85%E5%BD%B1%E5%9F%8E%E8%88%92%E5%85%B0%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>狮子王</title>
-      <link>/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</link>
+      <link>//localhost:9898/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</guid>
+      <guid>//localhost:9898/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

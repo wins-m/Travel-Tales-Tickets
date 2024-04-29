@@ -2,757 +2,676 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tickets on 噗嗤！收藏集！</title>
-    <link>/tickets/</link>
+    <link>//localhost:9898/tickets/</link>
     <description>Recent content in Tickets on 噗嗤！收藏集！</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tickets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/tickets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>乘船而去</title>
+      <link>//localhost:9898/tickets/%E4%B9%98%E8%88%B9%E8%80%8C%E5%8E%BB/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E4%B9%98%E8%88%B9%E8%80%8C%E5%8E%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>金的音像店</title>
+      <link>//localhost:9898/tickets/%E9%87%91%E7%9A%84%E9%9F%B3%E5%83%8F%E5%BA%97/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E9%87%91%E7%9A%84%E9%9F%B3%E5%83%8F%E5%BA%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>年少日记</title>
+      <link>//localhost:9898/tickets/%E5%B9%B4%E5%B0%91%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E5%B9%B4%E5%B0%91%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>坠落的审判</title>
+      <link>//localhost:9898/tickets/%E5%9D%A0%E8%90%BD%E7%9A%84%E5%AE%A1%E5%88%A4/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E5%9D%A0%E8%90%BD%E7%9A%84%E5%AE%A1%E5%88%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>白日之下</title>
+      <link>//localhost:9898/tickets/%E7%99%BD%E6%97%A5%E4%B9%8B%E4%B8%8B/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E7%99%BD%E6%97%A5%E4%B9%8B%E4%B8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>你想活出怎样的人生</title>
+      <link>//localhost:9898/tickets/%E4%BD%A0%E6%83%B3%E6%B4%BB%E5%87%BA%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%94%9F/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E4%BD%A0%E6%83%B3%E6%B4%BB%E5%87%BA%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%94%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>沙丘2</title>
+      <link>//localhost:9898/tickets/%E6%B2%99%E4%B8%982/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%B2%99%E4%B8%982/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>汉娜·阿伦特</title>
+      <link>//localhost:9898/tickets/%E6%B1%89%E5%A8%9C%E9%98%BF%E4%BC%A6%E7%89%B9/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%B1%89%E5%A8%9C%E9%98%BF%E4%BC%A6%E7%89%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小城之春</title>
+      <link>//localhost:9898/tickets/%E5%B0%8F%E5%9F%8E%E4%B9%8B%E6%98%A5/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E5%B0%8F%E5%9F%8E%E4%B9%8B%E6%98%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>悲情城市</title>
+      <link>//localhost:9898/tickets/%E6%82%B2%E6%83%85%E5%9F%8E%E5%B8%82/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%82%B2%E6%83%85%E5%9F%8E%E5%B8%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>绝美之城</title>
+      <link>//localhost:9898/tickets/%E7%BB%9D%E7%BE%8E%E4%B9%8B%E5%9F%8E/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E7%BB%9D%E7%BE%8E%E4%B9%8B%E5%9F%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>晒后假日</title>
+      <link>//localhost:9898/tickets/%E6%99%92%E5%90%8E%E5%81%87%E6%97%A5/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%99%92%E5%90%8E%E5%81%87%E6%97%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>消失的她</title>
+      <link>//localhost:9898/tickets/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9/</guid>
+      <description></description>
+    </item>
     <item>
       <title>咫尺天涯</title>
-      <link>/tickets/%E5%92%AB%E5%B0%BA%E5%A4%A9%E6%B6%AF/</link>
+      <link>//localhost:9898/tickets/%E5%92%AB%E5%B0%BA%E5%A4%A9%E6%B6%AF/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%92%AB%E5%B0%BA%E5%A4%A9%E6%B6%AF/</guid>
+      <guid>//localhost:9898/tickets/%E5%92%AB%E5%B0%BA%E5%A4%A9%E6%B6%AF/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>银河护卫队3</title>
-      <link>/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</link>
+      <link>//localhost:9898/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</guid>
+      <guid>//localhost:9898/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>稍微想起一些</title>
-      <link>/tickets/%E7%A8%8D%E5%BE%AE%E6%83%B3%E8%B5%B7%E4%B8%80%E4%BA%9B/</link>
+      <link>//localhost:9898/tickets/%E7%A8%8D%E5%BE%AE%E6%83%B3%E8%B5%B7%E4%B8%80%E4%BA%9B/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%A8%8D%E5%BE%AE%E6%83%B3%E8%B5%B7%E4%B8%80%E4%BA%9B/</guid>
+      <guid>//localhost:9898/tickets/%E7%A8%8D%E5%BE%AE%E6%83%B3%E8%B5%B7%E4%B8%80%E4%BA%9B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>坂本龙一：异步</title>
-      <link>/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%BC%82%E6%AD%A5/</link>
+      <link>//localhost:9898/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%BC%82%E6%AD%A5/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%BC%82%E6%AD%A5/</guid>
+      <guid>//localhost:9898/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%BC%82%E6%AD%A5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>卡萨布兰卡</title>
-      <link>/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</link>
+      <link>//localhost:9898/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</guid>
+      <guid>//localhost:9898/tickets/%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>薄荷糖</title>
-      <link>/tickets/%E8%96%84%E8%8D%B7%E7%B3%96/</link>
+      <link>//localhost:9898/tickets/%E8%96%84%E8%8D%B7%E7%B3%96/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%96%84%E8%8D%B7%E7%B3%96/</guid>
+      <guid>//localhost:9898/tickets/%E8%96%84%E8%8D%B7%E7%B3%96/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>女收藏家</title>
-      <link>/tickets/%E5%A5%B3%E6%94%B6%E8%97%8F%E5%AE%B6/</link>
+      <link>//localhost:9898/tickets/%E5%A5%B3%E6%94%B6%E8%97%8F%E5%AE%B6/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A5%B3%E6%94%B6%E8%97%8F%E5%AE%B6/</guid>
+      <guid>//localhost:9898/tickets/%E5%A5%B3%E6%94%B6%E8%97%8F%E5%AE%B6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>潜行者</title>
-      <link>/tickets/%E6%BD%9C%E8%A1%8C%E8%80%85/</link>
+      <link>//localhost:9898/tickets/%E6%BD%9C%E8%A1%8C%E8%80%85/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%BD%9C%E8%A1%8C%E8%80%85/</guid>
+      <guid>//localhost:9898/tickets/%E6%BD%9C%E8%A1%8C%E8%80%85/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>镜子</title>
-      <link>/tickets/%E9%95%9C%E5%AD%90/</link>
+      <link>//localhost:9898/tickets/%E9%95%9C%E5%AD%90/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%95%9C%E5%AD%90/</guid>
+      <guid>//localhost:9898/tickets/%E9%95%9C%E5%AD%90/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>飞向太空</title>
-      <link>/tickets/%E9%A3%9E%E5%90%91%E5%A4%AA%E7%A9%BA/</link>
+      <link>//localhost:9898/tickets/%E9%A3%9E%E5%90%91%E5%A4%AA%E7%A9%BA/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%A3%9E%E5%90%91%E5%A4%AA%E7%A9%BA/</guid>
+      <guid>//localhost:9898/tickets/%E9%A3%9E%E5%90%91%E5%A4%AA%E7%A9%BA/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>伊万的童年</title>
-      <link>/tickets/%E4%BC%8A%E4%B8%87%E7%9A%84%E7%AB%A5%E5%B9%B4/</link>
+      <link>//localhost:9898/tickets/%E4%BC%8A%E4%B8%87%E7%9A%84%E7%AB%A5%E5%B9%B4/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%BC%8A%E4%B8%87%E7%9A%84%E7%AB%A5%E5%B9%B4/</guid>
+      <guid>//localhost:9898/tickets/%E4%BC%8A%E4%B8%87%E7%9A%84%E7%AB%A5%E5%B9%B4/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>朱尔与吉姆</title>
-      <link>/tickets/%E6%9C%B1%E5%B0%94%E4%B8%8E%E5%90%89%E5%A7%86/</link>
+      <link>//localhost:9898/tickets/%E6%9C%B1%E5%B0%94%E4%B8%8E%E5%90%89%E5%A7%86/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%9C%B1%E5%B0%94%E4%B8%8E%E5%90%89%E5%A7%86/</guid>
+      <guid>//localhost:9898/tickets/%E6%9C%B1%E5%B0%94%E4%B8%8E%E5%90%89%E5%A7%86/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>一出大戏</title>
-      <link>/tickets/%E4%B8%80%E5%87%BA%E5%A4%A7%E6%88%8F/</link>
+      <link>//localhost:9898/tickets/%E4%B8%80%E5%87%BA%E5%A4%A7%E6%88%8F/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%B8%80%E5%87%BA%E5%A4%A7%E6%88%8F/</guid>
+      <guid>//localhost:9898/tickets/%E4%B8%80%E5%87%BA%E5%A4%A7%E6%88%8F/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>雾中风景</title>
-      <link>/tickets/%E9%9B%BE%E4%B8%AD%E9%A3%8E%E6%99%AF/</link>
+      <link>//localhost:9898/tickets/%E9%9B%BE%E4%B8%AD%E9%A3%8E%E6%99%AF/</link>
       <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%9B%BE%E4%B8%AD%E9%A3%8E%E6%99%AF/</guid>
+      <guid>//localhost:9898/tickets/%E9%9B%BE%E4%B8%AD%E9%A3%8E%E6%99%AF/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>两生花</title>
-      <link>/tickets/%E4%B8%A4%E7%94%9F%E8%8A%B1/</link>
+      <link>//localhost:9898/tickets/%E4%B8%A4%E7%94%9F%E8%8A%B1/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%B8%A4%E7%94%9F%E8%8A%B1/</guid>
+      <guid>//localhost:9898/tickets/%E4%B8%A4%E7%94%9F%E8%8A%B1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>坂本龙一：终曲</title>
-      <link>/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E7%BB%88%E6%9B%B2/</link>
+      <link>//localhost:9898/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E7%BB%88%E6%9B%B2/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E7%BB%88%E6%9B%B2/</guid>
+      <guid>//localhost:9898/tickets/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E7%BB%88%E6%9B%B2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>夜与雾</title>
-      <link>/tickets/%E5%A4%9C%E4%B8%8E%E9%9B%BE/</link>
+      <link>//localhost:9898/tickets/%E5%A4%9C%E4%B8%8E%E9%9B%BE/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%9C%E4%B8%8E%E9%9B%BE/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%9C%E4%B8%8E%E9%9B%BE/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>好戏还在后头</title>
-      <link>/tickets/%E5%A5%BD%E6%88%8F%E8%BF%98%E5%9C%A8%E5%90%8E%E5%A4%B4/</link>
+      <link>//localhost:9898/tickets/%E5%A5%BD%E6%88%8F%E8%BF%98%E5%9C%A8%E5%90%8E%E5%A4%B4/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A5%BD%E6%88%8F%E8%BF%98%E5%9C%A8%E5%90%8E%E5%A4%B4/</guid>
+      <guid>//localhost:9898/tickets/%E5%A5%BD%E6%88%8F%E8%BF%98%E5%9C%A8%E5%90%8E%E5%A4%B4/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>广岛之恋</title>
-      <link>/tickets/%E5%B9%BF%E5%B2%9B%E4%B9%8B%E6%81%8B/</link>
+      <link>//localhost:9898/tickets/%E5%B9%BF%E5%B2%9B%E4%B9%8B%E6%81%8B/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%B9%BF%E5%B2%9B%E4%B9%8B%E6%81%8B/</guid>
+      <guid>//localhost:9898/tickets/%E5%B9%BF%E5%B2%9B%E4%B9%8B%E6%81%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>冬天的故事</title>
-      <link>/tickets/%E5%86%AC%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
+      <link>//localhost:9898/tickets/%E5%86%AC%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%86%AC%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
+      <guid>//localhost:9898/tickets/%E5%86%AC%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>夏天的故事</title>
-      <link>/tickets/%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
+      <link>//localhost:9898/tickets/%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>春天的故事</title>
-      <link>/tickets/%E6%98%A5%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
+      <link>//localhost:9898/tickets/%E6%98%A5%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%98%A5%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
+      <guid>//localhost:9898/tickets/%E6%98%A5%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>秋天的故事</title>
-      <link>/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
+      <link>//localhost:9898/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
+      <guid>//localhost:9898/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>秋天的童话</title>
-      <link>/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AB%A5%E8%AF%9D/</link>
+      <link>//localhost:9898/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AB%A5%E8%AF%9D/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AB%A5%E8%AF%9D/</guid>
+      <guid>//localhost:9898/tickets/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AB%A5%E8%AF%9D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>岁月神偷</title>
-      <link>/tickets/%E5%B2%81%E6%9C%88%E7%A5%9E%E5%81%B7/</link>
+      <link>//localhost:9898/tickets/%E5%B2%81%E6%9C%88%E7%A5%9E%E5%81%B7/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%B2%81%E6%9C%88%E7%A5%9E%E5%81%B7/</guid>
+      <guid>//localhost:9898/tickets/%E5%B2%81%E6%9C%88%E7%A5%9E%E5%81%B7/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>白丝带</title>
-      <link>/tickets/%E7%99%BD%E4%B8%9D%E5%B8%A6/</link>
+      <link>//localhost:9898/tickets/%E7%99%BD%E4%B8%9D%E5%B8%A6/</link>
       <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%99%BD%E4%B8%9D%E5%B8%A6/</guid>
+      <guid>//localhost:9898/tickets/%E7%99%BD%E4%B8%9D%E5%B8%A6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>隐藏摄像机</title>
-      <link>/tickets/%E9%9A%90%E8%97%8F%E6%91%84%E5%83%8F%E6%9C%BA/</link>
+      <link>//localhost:9898/tickets/%E9%9A%90%E8%97%8F%E6%91%84%E5%83%8F%E6%9C%BA/</link>
       <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%9A%90%E8%97%8F%E6%91%84%E5%83%8F%E6%9C%BA/</guid>
+      <guid>//localhost:9898/tickets/%E9%9A%90%E8%97%8F%E6%91%84%E5%83%8F%E6%9C%BA/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>大地与阴影</title>
-      <link>/tickets/%E5%A4%A7%E5%9C%B0%E4%B8%8E%E9%98%B4%E5%BD%B1/</link>
+      <link>//localhost:9898/tickets/%E5%A4%A7%E5%9C%B0%E4%B8%8E%E9%98%B4%E5%BD%B1/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%A7%E5%9C%B0%E4%B8%8E%E9%98%B4%E5%BD%B1/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%A7%E5%9C%B0%E4%B8%8E%E9%98%B4%E5%BD%B1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>弗兰兹</title>
-      <link>/tickets/%E5%BC%97%E5%85%B0%E5%85%B9/</link>
+      <link>//localhost:9898/tickets/%E5%BC%97%E5%85%B0%E5%85%B9/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%BC%97%E5%85%B0%E5%85%B9/</guid>
+      <guid>//localhost:9898/tickets/%E5%BC%97%E5%85%B0%E5%85%B9/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>对不起，我们错过了你</title>
-      <link>/tickets/%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E4%BB%AC%E9%94%99%E8%BF%87%E4%BA%86%E4%BD%A0/</link>
+      <link>//localhost:9898/tickets/%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E4%BB%AC%E9%94%99%E8%BF%87%E4%BA%86%E4%BD%A0/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E4%BB%AC%E9%94%99%E8%BF%87%E4%BA%86%E4%BD%A0/</guid>
+      <guid>//localhost:9898/tickets/%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E4%BB%AC%E9%94%99%E8%BF%87%E4%BA%86%E4%BD%A0/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>海街日记</title>
-      <link>/tickets/%E6%B5%B7%E8%A1%97%E6%97%A5%E8%AE%B0/</link>
+      <link>//localhost:9898/tickets/%E6%B5%B7%E8%A1%97%E6%97%A5%E8%AE%B0/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%B5%B7%E8%A1%97%E6%97%A5%E8%AE%B0/</guid>
+      <guid>//localhost:9898/tickets/%E6%B5%B7%E8%A1%97%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>中央车站</title>
-      <link>/tickets/%E4%B8%AD%E5%A4%AE%E8%BD%A6%E7%AB%99/</link>
+      <link>//localhost:9898/tickets/%E4%B8%AD%E5%A4%AE%E8%BD%A6%E7%AB%99/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%B8%AD%E5%A4%AE%E8%BD%A6%E7%AB%99/</guid>
+      <guid>//localhost:9898/tickets/%E4%B8%AD%E5%A4%AE%E8%BD%A6%E7%AB%99/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>断·桥</title>
-      <link>/tickets/%E6%96%AD%E6%A1%A5/</link>
+      <link>//localhost:9898/tickets/%E6%96%AD%E6%A1%A5/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%96%AD%E6%A1%A5/</guid>
+      <guid>//localhost:9898/tickets/%E6%96%AD%E6%A1%A5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>你觉得我是谁</title>
-      <link>/tickets/%E4%BD%A0%E8%A7%89%E5%BE%97%E6%88%91%E6%98%AF%E8%B0%81/</link>
+      <link>//localhost:9898/tickets/%E4%BD%A0%E8%A7%89%E5%BE%97%E6%88%91%E6%98%AF%E8%B0%81/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%BD%A0%E8%A7%89%E5%BE%97%E6%88%91%E6%98%AF%E8%B0%81/</guid>
+      <guid>//localhost:9898/tickets/%E4%BD%A0%E8%A7%89%E5%BE%97%E6%88%91%E6%98%AF%E8%B0%81/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>绿光</title>
-      <link>/tickets/%E7%BB%BF%E5%85%89/</link>
+      <link>//localhost:9898/tickets/%E7%BB%BF%E5%85%89/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%BB%BF%E5%85%89/</guid>
+      <guid>//localhost:9898/tickets/%E7%BB%BF%E5%85%89/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>劳工之爱情 &#43; 神女</title>
-      <link>/tickets/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85-&#43;-%E7%A5%9E%E5%A5%B3/</link>
+      <link>//localhost:9898/tickets/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85-&#43;-%E7%A5%9E%E5%A5%B3/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85-&#43;-%E7%A5%9E%E5%A5%B3/</guid>
+      <guid>//localhost:9898/tickets/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85-&#43;-%E7%A5%9E%E5%A5%B3/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>劳工之爱情&#43; 神女</title>
-      <link>/tickets/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85&#43;-%E7%A5%9E%E5%A5%B3/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%8A%B3%E5%B7%A5%E4%B9%8B%E7%88%B1%E6%83%85&#43;-%E7%A5%9E%E5%A5%B3/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>柏林苍穹下</title>
-      <link>/tickets/%E6%9F%8F%E6%9E%97%E8%8B%8D%E7%A9%B9%E4%B8%8B/</link>
+      <link>//localhost:9898/tickets/%E6%9F%8F%E6%9E%97%E8%8B%8D%E7%A9%B9%E4%B8%8B/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%9F%8F%E6%9E%97%E8%8B%8D%E7%A9%B9%E4%B8%8B/</guid>
+      <guid>//localhost:9898/tickets/%E6%9F%8F%E6%9E%97%E8%8B%8D%E7%A9%B9%E4%B8%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>风吹麦浪</title>
-      <link>/tickets/%E9%A3%8E%E5%90%B9%E9%BA%A6%E6%B5%AA/</link>
+      <link>//localhost:9898/tickets/%E9%A3%8E%E5%90%B9%E9%BA%A6%E6%B5%AA/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%A3%8E%E5%90%B9%E9%BA%A6%E6%B5%AA/</guid>
+      <guid>//localhost:9898/tickets/%E9%A3%8E%E5%90%B9%E9%BA%A6%E6%B5%AA/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>欢乐时光</title>
-      <link>/tickets/%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89/</link>
+      <link>//localhost:9898/tickets/%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89/</guid>
+      <guid>//localhost:9898/tickets/%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>阮玲玉</title>
-      <link>/tickets/%E9%98%AE%E7%8E%B2%E7%8E%89/</link>
+      <link>//localhost:9898/tickets/%E9%98%AE%E7%8E%B2%E7%8E%89/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%98%AE%E7%8E%B2%E7%8E%89/</guid>
+      <guid>//localhost:9898/tickets/%E9%98%AE%E7%8E%B2%E7%8E%89/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>如果有一天我将会离开你</title>
-      <link>/tickets/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E6%88%91%E5%B0%86%E4%BC%9A%E7%A6%BB%E5%BC%80%E4%BD%A0/</link>
+      <link>//localhost:9898/tickets/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E6%88%91%E5%B0%86%E4%BC%9A%E7%A6%BB%E5%BC%80%E4%BD%A0/</link>
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E6%88%91%E5%B0%86%E4%BC%9A%E7%A6%BB%E5%BC%80%E4%BD%A0/</guid>
+      <guid>//localhost:9898/tickets/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E6%88%91%E5%B0%86%E4%BC%9A%E7%A6%BB%E5%BC%80%E4%BD%A0/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>天堂电影院</title>
-      <link>/tickets/%E5%A4%A9%E5%A0%82%E7%94%B5%E5%BD%B1%E9%99%A2/</link>
+      <link>//localhost:9898/tickets/%E5%A4%A9%E5%A0%82%E7%94%B5%E5%BD%B1%E9%99%A2/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%A9%E5%A0%82%E7%94%B5%E5%BD%B1%E9%99%A2/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%A9%E5%A0%82%E7%94%B5%E5%BD%B1%E9%99%A2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>安魂</title>
-      <link>/tickets/%E5%AE%89%E9%AD%82/</link>
+      <link>//localhost:9898/tickets/%E5%AE%89%E9%AD%82/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%AE%89%E9%AD%82/</guid>
+      <guid>//localhost:9898/tickets/%E5%AE%89%E9%AD%82/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>纽约的一个雨天</title>
-      <link>/tickets/%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%80%E4%B8%AA%E9%9B%A8%E5%A4%A9/</link>
+      <link>//localhost:9898/tickets/%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%80%E4%B8%AA%E9%9B%A8%E5%A4%A9/</link>
       <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%80%E4%B8%AA%E9%9B%A8%E5%A4%A9/</guid>
+      <guid>//localhost:9898/tickets/%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%80%E4%B8%AA%E9%9B%A8%E5%A4%A9/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>花束般的恋爱</title>
-      <link>/tickets/%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1/</link>
+      <link>//localhost:9898/tickets/%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1/</guid>
+      <guid>//localhost:9898/tickets/%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>指挥家若昂</title>
-      <link>/tickets/%E6%8C%87%E6%8C%A5%E5%AE%B6%E8%8B%A5%E6%98%82/</link>
+      <link>//localhost:9898/tickets/%E6%8C%87%E6%8C%A5%E5%AE%B6%E8%8B%A5%E6%98%82/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%8C%87%E6%8C%A5%E5%AE%B6%E8%8B%A5%E6%98%82/</guid>
+      <guid>//localhost:9898/tickets/%E6%8C%87%E6%8C%A5%E5%AE%B6%E8%8B%A5%E6%98%82/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>架子上的玛丽亚</title>
-      <link>/tickets/%E6%9E%B6%E5%AD%90%E4%B8%8A%E7%9A%84%E7%8E%9B%E4%B8%BD%E4%BA%9A/</link>
+      <link>//localhost:9898/tickets/%E6%9E%B6%E5%AD%90%E4%B8%8A%E7%9A%84%E7%8E%9B%E4%B8%BD%E4%BA%9A/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%9E%B6%E5%AD%90%E4%B8%8A%E7%9A%84%E7%8E%9B%E4%B8%BD%E4%BA%9A/</guid>
+      <guid>//localhost:9898/tickets/%E6%9E%B6%E5%AD%90%E4%B8%8A%E7%9A%84%E7%8E%9B%E4%B8%BD%E4%BA%9A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>狙击手</title>
-      <link>/tickets/%E7%8B%99%E5%87%BB%E6%89%8B/</link>
+      <link>//localhost:9898/tickets/%E7%8B%99%E5%87%BB%E6%89%8B/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%8B%99%E5%87%BB%E6%89%8B/</guid>
+      <guid>//localhost:9898/tickets/%E7%8B%99%E5%87%BB%E6%89%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>悬崖之上</title>
-      <link>/tickets/%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A/</link>
+      <link>//localhost:9898/tickets/%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A/</guid>
+      <guid>//localhost:9898/tickets/%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>月光男孩</title>
-      <link>/tickets/%E6%9C%88%E5%85%89%E7%94%B7%E5%AD%A9/</link>
+      <link>//localhost:9898/tickets/%E6%9C%88%E5%85%89%E7%94%B7%E5%AD%A9/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%9C%88%E5%85%89%E7%94%B7%E5%AD%A9/</guid>
+      <guid>//localhost:9898/tickets/%E6%9C%88%E5%85%89%E7%94%B7%E5%AD%A9/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>伯爵夫人的耳环</title>
-      <link>/tickets/%E4%BC%AF%E7%88%B5%E5%A4%AB%E4%BA%BA%E7%9A%84%E8%80%B3%E7%8E%AF/</link>
+      <link>//localhost:9898/tickets/%E4%BC%AF%E7%88%B5%E5%A4%AB%E4%BA%BA%E7%9A%84%E8%80%B3%E7%8E%AF/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%BC%AF%E7%88%B5%E5%A4%AB%E4%BA%BA%E7%9A%84%E8%80%B3%E7%8E%AF/</guid>
+      <guid>//localhost:9898/tickets/%E4%BC%AF%E7%88%B5%E5%A4%AB%E4%BA%BA%E7%9A%84%E8%80%B3%E7%8E%AF/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>胭脂扣</title>
-      <link>/tickets/%E8%83%AD%E8%84%82%E6%89%A3/</link>
+      <link>//localhost:9898/tickets/%E8%83%AD%E8%84%82%E6%89%A3/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%83%AD%E8%84%82%E6%89%A3/</guid>
+      <guid>//localhost:9898/tickets/%E8%83%AD%E8%84%82%E6%89%A3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>偷自行车的人</title>
-      <link>/tickets/%E5%81%B7%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%9A%84%E4%BA%BA/</link>
+      <link>//localhost:9898/tickets/%E5%81%B7%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%9A%84%E4%BA%BA/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%81%B7%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%9A%84%E4%BA%BA/</guid>
+      <guid>//localhost:9898/tickets/%E5%81%B7%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%9A%84%E4%BA%BA/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>夜以继日</title>
-      <link>/tickets/%E5%A4%9C%E4%BB%A5%E7%BB%A7%E6%97%A5/</link>
+      <link>//localhost:9898/tickets/%E5%A4%9C%E4%BB%A5%E7%BB%A7%E6%97%A5/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%9C%E4%BB%A5%E7%BB%A7%E6%97%A5/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%9C%E4%BB%A5%E7%BB%A7%E6%97%A5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>最初的梦想</title>
-      <link>/tickets/%E6%9C%80%E5%88%9D%E7%9A%84%E6%A2%A6%E6%83%B3/</link>
+      <link>//localhost:9898/tickets/%E6%9C%80%E5%88%9D%E7%9A%84%E6%A2%A6%E6%83%B3/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%9C%80%E5%88%9D%E7%9A%84%E6%A2%A6%E6%83%B3/</guid>
+      <guid>//localhost:9898/tickets/%E6%9C%80%E5%88%9D%E7%9A%84%E6%A2%A6%E6%83%B3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>爱情神话</title>
-      <link>/tickets/%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D/</link>
+      <link>//localhost:9898/tickets/%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D/</guid>
+      <guid>//localhost:9898/tickets/%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>兰心大剧院</title>
-      <link>/tickets/%E5%85%B0%E5%BF%83%E5%A4%A7%E5%89%A7%E9%99%A2/</link>
+      <link>//localhost:9898/tickets/%E5%85%B0%E5%BF%83%E5%A4%A7%E5%89%A7%E9%99%A2/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%85%B0%E5%BF%83%E5%A4%A7%E5%89%A7%E9%99%A2/</guid>
+      <guid>//localhost:9898/tickets/%E5%85%B0%E5%BF%83%E5%A4%A7%E5%89%A7%E9%99%A2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>陪你很久很久</title>
-      <link>/tickets/%E9%99%AA%E4%BD%A0%E5%BE%88%E4%B9%85%E5%BE%88%E4%B9%85/</link>
+      <link>//localhost:9898/tickets/%E9%99%AA%E4%BD%A0%E5%BE%88%E4%B9%85%E5%BE%88%E4%B9%85/</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%99%AA%E4%BD%A0%E5%BE%88%E4%B9%85%E5%BE%88%E4%B9%85/</guid>
+      <guid>//localhost:9898/tickets/%E9%99%AA%E4%BD%A0%E5%BE%88%E4%B9%85%E5%BE%88%E4%B9%85/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>明日之战</title>
-      <link>/tickets/%E6%98%8E%E6%97%A5%E4%B9%8B%E6%88%98/</link>
+      <link>//localhost:9898/tickets/%E6%98%8E%E6%97%A5%E4%B9%8B%E6%88%98/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%98%8E%E6%97%A5%E4%B9%8B%E6%88%98/</guid>
+      <guid>//localhost:9898/tickets/%E6%98%8E%E6%97%A5%E4%B9%8B%E6%88%98/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>失控玩家</title>
-      <link>/tickets/%E5%A4%B1%E6%8E%A7%E7%8E%A9%E5%AE%B6/</link>
+      <link>//localhost:9898/tickets/%E5%A4%B1%E6%8E%A7%E7%8E%A9%E5%AE%B6/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%B1%E6%8E%A7%E7%8E%A9%E5%AE%B6/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%B1%E6%8E%A7%E7%8E%A9%E5%AE%B6/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>乔西的虎与鱼</title>
-      <link>/tickets/%E4%B9%94%E8%A5%BF%E7%9A%84%E8%99%8E%E4%B8%8E%E9%B1%BC/</link>
+      <link>//localhost:9898/tickets/%E4%B9%94%E8%A5%BF%E7%9A%84%E8%99%8E%E4%B8%8E%E9%B1%BC/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%B9%94%E8%A5%BF%E7%9A%84%E8%99%8E%E4%B8%8E%E9%B1%BC/</guid>
+      <guid>//localhost:9898/tickets/%E4%B9%94%E8%A5%BF%E7%9A%84%E8%99%8E%E4%B8%8E%E9%B1%BC/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>深爱</title>
-      <link>/tickets/%E6%B7%B1%E7%88%B1/</link>
+      <link>//localhost:9898/tickets/%E6%B7%B1%E7%88%B1/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%B7%B1%E7%88%B1/</guid>
+      <guid>//localhost:9898/tickets/%E6%B7%B1%E7%88%B1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>盛夏未来</title>
-      <link>/tickets/%E7%9B%9B%E5%A4%8F%E6%9C%AA%E6%9D%A5/</link>
+      <link>//localhost:9898/tickets/%E7%9B%9B%E5%A4%8F%E6%9C%AA%E6%9D%A5/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%9B%9B%E5%A4%8F%E6%9C%AA%E6%9D%A5/</guid>
+      <guid>//localhost:9898/tickets/%E7%9B%9B%E5%A4%8F%E6%9C%AA%E6%9D%A5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>信条</title>
-      <link>/tickets/%E4%BF%A1%E6%9D%A1/</link>
+      <link>//localhost:9898/tickets/%E4%BF%A1%E6%9D%A1/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E4%BF%A1%E6%9D%A1/</guid>
+      <guid>//localhost:9898/tickets/%E4%BF%A1%E6%9D%A1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>海上钢琴师</title>
-      <link>/tickets/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88/</link>
+      <link>//localhost:9898/tickets/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88/</guid>
+      <guid>//localhost:9898/tickets/%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>少年的你</title>
-      <link>/tickets/%E5%B0%91%E5%B9%B4%E7%9A%84%E4%BD%A0/</link>
+      <link>//localhost:9898/tickets/%E5%B0%91%E5%B9%B4%E7%9A%84%E4%BD%A0/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%B0%91%E5%B9%B4%E7%9A%84%E4%BD%A0/</guid>
+      <guid>//localhost:9898/tickets/%E5%B0%91%E5%B9%B4%E7%9A%84%E4%BD%A0/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>狮子王</title>
-      <link>/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</link>
+      <link>//localhost:9898/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</guid>
+      <guid>//localhost:9898/tickets/%E7%8B%AE%E5%AD%90%E7%8E%8B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>千与千寻</title>
-      <link>/tickets/%E5%8D%83%E4%B8%8E%E5%8D%83%E5%AF%BB/</link>
+      <link>//localhost:9898/tickets/%E5%8D%83%E4%B8%8E%E5%8D%83%E5%AF%BB/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%8D%83%E4%B8%8E%E5%8D%83%E5%AF%BB/</guid>
+      <guid>//localhost:9898/tickets/%E5%8D%83%E4%B8%8E%E5%8D%83%E5%AF%BB/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>蜘蛛侠：英雄远征</title>
-      <link>/tickets/%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8B%B1%E9%9B%84%E8%BF%9C%E5%BE%81/</link>
+      <link>//localhost:9898/tickets/%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8B%B1%E9%9B%84%E8%BF%9C%E5%BE%81/</link>
       <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8B%B1%E9%9B%84%E8%BF%9C%E5%BE%81/</guid>
+      <guid>//localhost:9898/tickets/%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8B%B1%E9%9B%84%E8%BF%9C%E5%BE%81/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>X战警：黑凤凰</title>
-      <link>/tickets/x%E6%88%98%E8%AD%A6%E9%BB%91%E5%87%A4%E5%87%B0/</link>
+      <link>//localhost:9898/tickets/x%E6%88%98%E8%AD%A6%E9%BB%91%E5%87%A4%E5%87%B0/</link>
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/x%E6%88%98%E8%AD%A6%E9%BB%91%E5%87%A4%E5%87%B0/</guid>
+      <guid>//localhost:9898/tickets/x%E6%88%98%E8%AD%A6%E9%BB%91%E5%87%A4%E5%87%B0/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>复仇者联盟4：终局之战</title>
-      <link>/tickets/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98/</link>
+      <link>//localhost:9898/tickets/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>流浪地球</title>
-      <link>/tickets/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83/</link>
+      <link>//localhost:9898/tickets/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83/</guid>
+      <guid>//localhost:9898/tickets/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>大黄蜂</title>
-      <link>/tickets/%E5%A4%A7%E9%BB%84%E8%9C%82/</link>
+      <link>//localhost:9898/tickets/%E5%A4%A7%E9%BB%84%E8%9C%82/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%A4%A7%E9%BB%84%E8%9C%82/</guid>
+      <guid>//localhost:9898/tickets/%E5%A4%A7%E9%BB%84%E8%9C%82/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>巴贝特之宴</title>
-      <link>/tickets/%E5%B7%B4%E8%B4%9D%E7%89%B9%E4%B9%8B%E5%AE%B4/</link>
+      <link>//localhost:9898/tickets/%E5%B7%B4%E8%B4%9D%E7%89%B9%E4%B9%8B%E5%AE%B4/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%B7%B4%E8%B4%9D%E7%89%B9%E4%B9%8B%E5%AE%B4/</guid>
+      <guid>//localhost:9898/tickets/%E5%B7%B4%E8%B4%9D%E7%89%B9%E4%B9%8B%E5%AE%B4/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>幸福的拉扎罗</title>
-      <link>/tickets/%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%8B%89%E6%89%8E%E7%BD%97/</link>
+      <link>//localhost:9898/tickets/%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%8B%89%E6%89%8E%E7%BD%97/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%8B%89%E6%89%8E%E7%BD%97/</guid>
+      <guid>//localhost:9898/tickets/%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%8B%89%E6%89%8E%E7%BD%97/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>李保国</title>
-      <link>/tickets/%E6%9D%8E%E4%BF%9D%E5%9B%BD/</link>
+      <link>//localhost:9898/tickets/%E6%9D%8E%E4%BF%9D%E5%9B%BD/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%9D%8E%E4%BF%9D%E5%9B%BD/</guid>
+      <guid>//localhost:9898/tickets/%E6%9D%8E%E4%BF%9D%E5%9B%BD/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>影</title>
-      <link>/tickets/%E5%BD%B1/</link>
+      <link>//localhost:9898/tickets/%E5%BD%B1/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E5%BD%B1/</guid>
+      <guid>//localhost:9898/tickets/%E5%BD%B1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>苏丹</title>
-      <link>/tickets/%E8%8B%8F%E4%B8%B9/</link>
+      <link>//localhost:9898/tickets/%E8%8B%8F%E4%B8%B9/</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%8B%8F%E4%B8%B9/</guid>
+      <guid>//localhost:9898/tickets/%E8%8B%8F%E4%B8%B9/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>蚁人2：黄蜂女现身</title>
-      <link>/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</link>
+      <link>//localhost:9898/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</guid>
+      <guid>//localhost:9898/tickets/%E8%9A%81%E4%BA%BA2%E9%BB%84%E8%9C%82%E5%A5%B3%E7%8E%B0%E8%BA%AB/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>邪不压正</title>
-      <link>/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</link>
+      <link>//localhost:9898/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</guid>
+      <guid>//localhost:9898/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>我不是药神</title>
-      <link>/tickets/%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E/</link>
+      <link>//localhost:9898/tickets/%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E/</guid>
+      <guid>//localhost:9898/tickets/%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>阿飞正传</title>
-      <link>/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</link>
+      <link>//localhost:9898/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</guid>
+      <guid>//localhost:9898/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

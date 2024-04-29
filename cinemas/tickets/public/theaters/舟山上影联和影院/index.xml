@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>舟山上影联和影院 on 噗嗤！收藏集！</title>
+    <link>//localhost:9898/theaters/%E8%88%9F%E5%B1%B1%E4%B8%8A%E5%BD%B1%E8%81%94%E5%92%8C%E5%BD%B1%E9%99%A2/</link>
+    <description>Recent content in 舟山上影联和影院 on 噗嗤！收藏集！</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/theaters/%E8%88%9F%E5%B1%B1%E4%B8%8A%E5%BD%B1%E8%81%94%E5%92%8C%E5%BD%B1%E9%99%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>消失的她</title>
+      <link>//localhost:9898/tickets/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:9898/tickets/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

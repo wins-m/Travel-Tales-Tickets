@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>舟山影城 on 噗嗤！收藏集！</title>
-    <link>/theaters/%E8%88%9F%E5%B1%B1%E5%BD%B1%E5%9F%8E/</link>
+    <link>//localhost:9898/theaters/%E8%88%9F%E5%B1%B1%E5%BD%B1%E5%9F%8E/</link>
     <description>Recent content in 舟山影城 on 噗嗤！收藏集！</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="/theaters/%E8%88%9F%E5%B1%B1%E5%BD%B1%E5%9F%8E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:9898/theaters/%E8%88%9F%E5%B1%B1%E5%BD%B1%E5%9F%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>邪不压正</title>
-      <link>/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</link>
+      <link>//localhost:9898/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</guid>
+      <guid>//localhost:9898/tickets/%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>阿飞正传</title>
-      <link>/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</link>
+      <link>//localhost:9898/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</guid>
+      <guid>//localhost:9898/tickets/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
